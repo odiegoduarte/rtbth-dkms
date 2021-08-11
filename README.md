@@ -68,7 +68,7 @@ sudo rmmod rtbth
 ```
 <br>
 
-## bt-auto-start.sh
+## bt-start.sh
 É um pequeno shell script que faz o modulo BT iniciar junto com sistema, o sh roda o comando "sudo modprobe rtbth" basta trocar a palavra **senha** dentro do sh pela senha do seu usuário e adicionar o sh para iniciar com sistema.
 
 <br>
