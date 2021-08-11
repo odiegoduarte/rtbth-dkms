@@ -66,5 +66,15 @@ sudo rfkill unblock bluetooth
 sudo pkill -2 rtbt
 sudo rmmod rtbth
 ```
+<br>
+
+## bt-auto-start.sh
+É um pequeno shell script que faz o modulo BT iniciar junto com sistema, o sh roda o comando "sudo modprobe rtbth" basta trocar a palavra **senha** dentro do sh pela senha do seu usuário e adicionar o sh para iniciar com sistema.
+
+<br>
+
+<p align="center">
+  <img width="653" height="582" src="assets/screenshot2.png">
+</p>
 
 <br><br>
