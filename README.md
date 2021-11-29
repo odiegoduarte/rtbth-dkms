@@ -21,8 +21,8 @@ Este módulo não tem suporte oficial da Mediatek. O suporte foi descontinuado.
 
 <br>
 
-*Atenção o PPA suporta vai até a versão Ubuntu 20.10 (Groovy Gorilla)*  
-*Caso queria testar em outra versão ou distro baixe o pacote (rtbth-dkms 3.9.6 ~ git20200704-1 ~ groovy1) e instale o .deb no seu sistema*</p>
+*Atenção o PPA suporta vai até a versão Ubuntu 21.10 (impish)*  
+
 *Testei no pop!_OS 21.04 e funciona na maioria das vezes mais esse modulo wifi-bt da ralink-mediatek é ruim o sinal wifi é fraco e o alcance do BT é baixo um dongle bt usb csr é superior a esse modulo wifi-bt, minha recomendação e o que eu vou fazer é trocar o placa wifi-bt*
 
 <br>
